@@ -1,0 +1,11 @@
+ {
+    "id": 2,
+    "nome": "Maria Oliveira",
+    "email": "maria@example.com",
+    "telefone": "987654321",
+    "dataNascimento": "1985-05-10",
+    "cpf": "222.333.444-55",
+    "status": "Ativo",
+    "createdAt": "2024-03-15T00:52:40.325Z",
+    "updatedAt": "2024-03-18T23:40:41.131Z"
+  }
